@@ -8,7 +8,7 @@ OpenCV (pip install opencv-python)
 
 PIL (pip install Pillow)
 
-Poisson Blending (Follow instructions here
+Poisson Blending (Follow instructions https://github.com/yskmt/pb)
 
 PyBlur (pip install pyblur)
 
