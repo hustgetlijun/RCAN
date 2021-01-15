@@ -3,9 +3,13 @@ the paper of Research on the method of goods data construction and automatic gen
 
 # install
 python 3.5
+
 OpenCV (pip install opencv-python)
+
 PIL (pip install Pillow)
+
 Poisson Blending (Follow instructions here
+
 PyBlur (pip install pyblur)
 
 # Running the Script
