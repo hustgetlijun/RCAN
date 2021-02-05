@@ -1,5 +1,5 @@
-# RCAN:  Research on the method of goods data construction and automatic generation in carton
-the paper of Research on the method of goods data construction and automatic generation in carton.
+#RCAN:  The method of the carton datasets generation based on foreground
+texture replacement.
 
 # install
 python 3.5
