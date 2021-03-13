@@ -1,4 +1,4 @@
-#RCAN:  The method of the carton datasets generation based on foreground
+#CDS-FTR:  Carton datasets synthesis based on foreground texture replacement
 texture replacement.
 
 # install
