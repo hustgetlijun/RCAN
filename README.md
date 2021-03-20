@@ -1,5 +1,4 @@
-#CDS-FTR:  Carton datasets synthesis based on foreground texture replacement
-texture replacement.
+#CDS-FTR:  Carton datasets synthesis based on foreground texture replacement.
 
 # install
 python 3.5
@@ -13,15 +12,15 @@ Poisson Blending (Follow instructions https://github.com/yskmt/pb)
 PyBlur (pip install pyblur)
 
 # Running the Script
-Test faceted results：
+Test surface segmentation：
 
 python test_get_surface.py -bf ./data/back -sf ./data/surface
 
-Test construction results:
+Test contour constructed:
 
 python test_construction_surface.py -bf ./data/back -sf ./data/construction
 
-the final results:
+the total results:
 
 pyhon main.py -ff ./data/fore/img -bf ./data/back -sf ./data/save
 
