@@ -1,4 +1,4 @@
-#CDS-FTR:  Carton datasets synthesis based on foreground texture replacement.
+#CDS-FTR:  Carton dataset synthesis based on foreground texture replacement.
 
 # install
 python 3.5
