@@ -1,4 +1,12 @@
-#CDS-FTR:  Carton dataset synthesis based on foreground texture replacement.
+#CDS-FTR:  
+@article{gou2022carton,
+  title={Carton dataset synthesis method for loading-and-unloading carton detection based on deep learning},
+  author={Gou, Lijun and Wu, Shengkai and Yang, Jinrong and Yu, Hangcheng and Lin, Chenxi and Li, Xiaoping and Deng, Chao},
+  journal={The International Journal of Advanced Manufacturing Technology},
+  pages={1--18},
+  year={2022},
+  publisher={Springer}
+}
 
 # install
 python 3.5
